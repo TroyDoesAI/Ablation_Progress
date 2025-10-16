@@ -88,4 +88,6 @@ For founders and engineers, it means full control over *what* the model says and
 
 > Abliteration removes the refusal reflex, PaCE generalizes it to every internal behavior, and Persona Vectors let us control tone — turning alignment from a one-time fine-tuning job into a living, real-time system.
 
+https://arxiv.org/abs/2507.21509
+https://arxiv.org/abs/2406.04331
 ---
